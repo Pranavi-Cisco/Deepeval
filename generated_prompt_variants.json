@@ -1,0 +1,42 @@
+[
+  {
+    "user_prompt": "What is OpenStax?",
+    "expected_response": "OpenStax is part of Rice University, which is a nonprofit charitable corporation.",
+    "generated_prompts": {
+      "prompt_1": "Can you tell me more about the OpenStax initiative?",
+      "prompt_2": "What is the mission of OpenStax and who supports it?"
+    }
+  },
+  {
+    "user_prompt": "What are 'data crunchers'?",
+    "expected_response": "The rise of computers for work came out of a need to manage a massive quantity of numbers. The early computers essentially were developed to be 'data crunchers.'",
+    "generated_prompts": {
+      "prompt_1": "Can you explain the concept of 'data crunchers' in relation to early computing?",
+      "prompt_2": "What role did early computers play as 'data crunchers' in handling large volumes of numbers?"
+    }
+  },
+  {
+    "user_prompt": "How does today's technology impact the power of computers?",
+    "expected_response": "The rapid trajectory of innovations in computing has forever changed today’s workplace, where computing power is at our fingertips. It is difficult to imagine any industry that doesn’t depend on computing technology as an integral part of its business. Some of the more basic technologies that are present in businesses may include: direct deposit of paychecks, key card building access, shared company computer drives for document storage, paperless documentation systems for recordkeeping, high-speed printers/copiers, and automated inventory systems.",
+    "generated_prompts": {
+      "prompt_1": "Can you provide details about the employee discount program, including how to access it and the vendors involved?",
+      "prompt_2": "What are the eligibility criteria and specific discount percentages available for employees participating in the discount program?"
+    }
+  },
+  {
+    "user_prompt": "What is the advantage of e-sports in colleges and universities?",
+    "expected_response": "The term e-sports refers to a sports competition using video games. Like professional football, baseball, and other sports, e-sports events have a large following, including both spectators at the actual events and others who join to watch the action virtually. E-sports became a large player in the gaming industry around 2010 and has since exploded worldwide to such an extent that colleges and universities are taking notice. The impact on the academic environment can be seen in three key areas: academic programs such as game developing, student groups focused on gaming, and collegiate sports. Some institutions are even offering scholarships for e-sports similar to traditional athletic scholarships.",
+    "generated_prompts": {
+      "prompt_1": "Can you explain the benefits of e-sports programs at higher education institutions?",
+      "prompt_2": "What positive impacts do collegiate e-sports have on student engagement and academic offerings?"
+    }
+  },
+  {
+    "user_prompt": "What are wearables?",
+    "expected_response": "A wearable is a device that uses computing technology to collect and receive data via the internet. You may already be using a wearable technology device—for example, a smartwatch.",
+    "generated_prompts": {
+      "prompt_1": "Can you explain what wearable technology is?",
+      "prompt_2": "What exactly do we mean by wearable devices?"
+    }
+  }
+]
